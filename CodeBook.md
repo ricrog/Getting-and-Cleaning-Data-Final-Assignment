@@ -1,10 +1,10 @@
 ## Codebook
-This Codebook is reffered to the data contained in the dataset contained in "tidy_data.txt".
+This Codebook is reffered to the data contained in the dataset contained in `tidy_data.txt`.
 
 ##Notes
 Variable are taken from the UCI HAR Dataset. The varibles selected are those one 
 that represet the variable mean and standard deviation. 
-The value in the data set "tidy_data.txt" are the mean value of the variables according to the Activity and Suject.
+The value in the data set `tidy_data.txt` are the mean value of the variables according to the Activity and Suject.
 
 * Time and Frequence indicate if the values is referred to the domain of time or frequency
 * Acceleration and Gyroscope means if th datas come from accelerator or gyroscope
@@ -14,9 +14,9 @@ The value in the data set "tidy_data.txt" are the mean value of the variables ac
 ## Variables
 The following are the variables present in the data set.
 
-*"Subject" - ID of the subject
-*"Set" - If the subjecy is part of the train or test set
-*"Activity" - Indicate the activity to which the value is referred
+*`Subject` - ID of the subject
+*`Set` - If the subjecy is part of the train or test set
+*`Activity` - Indicate the activity to which the value is referred
 
 * "Time_Body_Acceleration_Mean-X" 
 * "Time_Body_Acceleration_Mean-Y" 
