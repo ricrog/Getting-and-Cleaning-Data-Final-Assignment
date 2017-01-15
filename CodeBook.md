@@ -3,7 +3,7 @@ This Codebook is reffered to the data contained in the dataset contained in `tid
 
 ##Notes
 Variable are taken from the UCI HAR Dataset. The varibles selected are those one 
-that represet the variable mean and standard deviation. 
+that represet the variable mean and standard deviation.  <br />
 The value in the data set `tidy_data.txt` are the mean value of the variables according to the Activity and Subject.
 
 * Time and Frequence indicate if the values is referred to the domain of time or frequency
