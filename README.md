@@ -1,7 +1,7 @@
 ## README
 This file describe the analysis done on the data present in the UCI HAR Dataset. <br />
 Data can be downloaded at: `https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip` <br />
-The code that performs the analysis can be found in: `Assignment_Tidy_Data.R`
+The code that performs the analysis can be found in: `run_analysis.R`
 
 The aim of the analysis is to extrapolate the value referring to the mean and the standard deviation merging 
 the data coming from the test and train sets.
